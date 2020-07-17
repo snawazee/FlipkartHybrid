@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="23784" started-at="2020-07-17T12:45:27 IST" finished-at="2020-07-17T12:45:50 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="23784" started-at="2020-07-17T12:45:27 IST" finished-at="2020-07-17T12:45:50 IST">
+      <class name="com.qa.flipkart.tests.LandingPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.flipkart.tests.LandingPageTest@7cbee484]" name="setUp" is-config="true" duration-ms="20548" started-at="2020-07-17T12:45:27 IST" finished-at="2020-07-17T12:45:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLoginPageTitleTest()[pri:1, instance:com.qa.flipkart.tests.LandingPageTest@7cbee484]" name="verifyLoginPageTitleTest" duration-ms="248" started-at="2020-07-17T12:45:47 IST" finished-at="2020-07-17T12:45:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageTitleTest -->
+        <test-method status="PASS" signature="closePopupTest()[pri:2, instance:com.qa.flipkart.tests.LandingPageTest@7cbee484]" name="closePopupTest" duration-ms="2185" started-at="2020-07-17T12:45:48 IST" finished-at="2020-07-17T12:45:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closePopupTest -->
+      </class> <!-- com.qa.flipkart.tests.LandingPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
